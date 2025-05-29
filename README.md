@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishjha1304&label=Profile%20views&color=0e75b6&style=flat" alt="ashishjha1304" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Python Advanced Libraries**
 
 - 👨‍💻My Portfolio [https://ashishjha1304.lovable.app/](https://ashishjha1304.lovable.app/)
 
