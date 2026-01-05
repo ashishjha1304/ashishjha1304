@@ -1,25 +1,35 @@
+<!-- ===================== BANNER ===================== -->
 <p align="center">
   <a href="https://ashishjha1304.lovable.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/ashishjha1304/ashishjha1304/main/github-banner.gif"
-         alt="Ashish Jha | Data Analyst"
-         width="100%" />
+    <img
+      src="https://raw.githubusercontent.com/ashishjha1304/ashishjha1304/main/github-banner.gif"
+      alt="Ashish Jha | Data Analyst"
+      width="100%" />
   </a>
 </p>
 
+<!-- ===================== INTRO ===================== -->
 <h1 align="center">Hi 👋, I'm Ashish Jha</h1>
 <h3 align="center">Aspiring Data Analyst</h3>
 <p align="center">
   Turning raw data into meaningful insights using Excel, Power BI, SQL, and Python
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://jorperort.github.io/images/data-men.gif">
+<img
+  align="right"
+  alt="Coding"
+  width="360"
+  src="https://jorperort.github.io/images/data-men.gif" />
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ashishjha1304&label=Profile%20views&color=0e75b6&style=flat" alt="ashishjha1304" />
+  <img
+    src="https://komarev.com/ghpvc/?username=ashishjha1304&label=Profile%20views&color=0e75b6&style=flat"
+    alt="ashishjha1304" />
 </p>
 
 ---
 
+<!-- ===================== ABOUT ===================== -->
 - 🌱 Currently enhancing skills in **Advanced Python Libraries for Data Analysis**
 - 👨‍💻 **Portfolio:** https://ashishjha1304.lovable.app/
 - 💬 Ask me about **Excel, Power BI, SQL, Python**
@@ -29,19 +39,21 @@
 
 ---
 
+<!-- ===================== CONNECT ===================== -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/ashishjha1304" target="_blank">
-    <img align="center"
-         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-         alt="ashishjha1304"
-         height="30"
-         width="40" />
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      height="30"
+      width="40"
+      alt="LinkedIn" />
   </a>
 </p>
 
 ---
 
+<!-- ===================== TOOLS ===================== -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://git-scm.com/" target="_blank">
@@ -53,27 +65,32 @@
   <a href="https://pandas.pydata.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
   </a>
-  <a href="https://www.python.org" target="_blank">
+  <a href="https://www.python.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
   </a>
 </p>
 
 ---
 
-<p>
-  <img align="left"
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishjha1304&show_icons=true&locale=en&layout=compact&theme=tokyonight"
-       alt="ashishjha1304" />
+<!-- ===================== STATS (FIXED) ===================== -->
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ashishjha1304&layout=compact&theme=tokyonight"
+    alt="Top Languages" />
 </p>
 
-<p>
-  <img align="center"
-       src="https://github-readme-stats.vercel.app/api?username=ashishjha1304&show_icons=true&locale=en&theme=tokyonight"
-       alt="ashishjha1304" />
+<p align="center">
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=ashishjha1304&show_icons=true&theme=tokyonight"
+    alt="GitHub Stats" />
 </p>
 
-<p>
-  <img align="center"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=ashishjha1304&theme=tokyonight"
-       alt="ashishjha1304" />
+<p align="center">
+  <img
+  src="https://github-readme-streak-stats-eight.vercel.app/?user=ashishjha1304&theme=tokyonight"
+  alt="GitHub Streak" />
 </p>
+
+
