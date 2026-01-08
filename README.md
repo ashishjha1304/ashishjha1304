@@ -1,6 +1,6 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <a href="https://ashishjha1304.lovable.app/" target="_blank">
+  <a href="https://ashishjha1304.vercel.app/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/ashishjha1304/ashishjha1304/main/github-banner.gif"
       alt="Ashish Jha | Data Analyst"
@@ -31,7 +31,7 @@
 
 <!-- ===================== ABOUT ===================== -->
 - 🌱 Currently enhancing skills in **Advanced Python Libraries for Data Analysis**
-- 👨‍💻 **Portfolio:** https://ashishjha1304.lovable.app/
+- 👨‍💻 **Portfolio:** https://ashishjha1304.vercel.app/
 - 💬 Ask me about **Excel, Power BI, SQL, Python**
 - 📫 Reach me at **ashishjha1304@outlook.com**
 - 📄 **Resume:**  
